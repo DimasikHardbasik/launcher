@@ -100,4 +100,6 @@ export default {
     "Пожалуйста, выберите другую версию или загрузите и установите SA-MP вручную.",
   add_or_play_external_server: "Добавить в избранные или играть",
   reconnect: "Переподключиться",
+  settings_advanced_discord_status_requires_restart:
+    "(Для действия требуется перезапуск игры)",
 };
